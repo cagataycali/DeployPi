@@ -1,0 +1,17 @@
+{
+  "name": "deploy-capi",
+  "version": "1.0.0",
+  "description": "Deploy capistrano",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "deployment",
+    "with",
+    "capistrano"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC"
+}
